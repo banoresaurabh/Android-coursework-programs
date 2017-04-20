@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BasicWidgets</string>
+    <string name="prompt">Select your country</string>
+
+    <string-array name="spinnerEnt">
+        <item> India </item>
+        <item> Singapore </item>
+        <item> Malaysia</item>
+    </string-array>
+</resources>
